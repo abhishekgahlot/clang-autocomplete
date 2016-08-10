@@ -28,7 +28,7 @@
 
 #include <nan.h>
 
-#include <clang-c/Index.h>
+#include "clang-c/Index.h"
 #include "dated_map.hpp"
 
 namespace clang_autocomplete {
